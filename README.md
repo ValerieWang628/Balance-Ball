@@ -1,4 +1,4 @@
-# Bounce-a-ball Project in the Unity World 
+# Bounce-A-Ball Project in the Unity World 
 
 This is Yunzi Wang's individual exercise project for game design and programming.
 
